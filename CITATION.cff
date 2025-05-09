@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Dziubek
+    given-names: Dejan
+title: "ANOVA-with-Flexible-EMMEANS"
+version: "1.0"
+url: "https://github.com/deschan5/ANOVA-with-Flexible-EMMEANS"
+date-released: "2025-05-09"
