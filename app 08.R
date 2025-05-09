@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: GPL-2.0-or-later
+
 # Load necessary libraries
 library(shiny)
 library(readxl)
