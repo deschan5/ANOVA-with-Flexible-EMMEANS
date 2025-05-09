@@ -23,7 +23,7 @@ This Shiny app performs ANOVA (Type I/II/III), EMMEANS and COMPACT LETTER DISPLA
 
 2. **Start the app in R**
     ```bash
-    shiny::runApp("app.R")
+    shiny::runApp("app 08.R")
 
 3. **Prepare your input Excel file**
 Your spreadsheet must have three distinct sections, in this order:
