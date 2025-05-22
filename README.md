@@ -1,5 +1,3 @@
-SPDX-License-Identifier: GPL-2.0-or-later
-
 # ANOVA with Flexible EMMEANS
 
 This Shiny app performs ANOVA (Type I/II/III), EMMEANS and COMPACT LETTER DISPLAY analyses on uploaded Excel data.
